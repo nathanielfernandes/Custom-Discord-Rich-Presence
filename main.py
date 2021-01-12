@@ -1,3 +1,4 @@
+# Nathaniel Fernandes
 from pypresence import Presence
 import tkinter as tk
 import random
@@ -7,7 +8,7 @@ import time
 class Window:
     def __init__(self):
         self.window = tk.Tk()
-        self.window.title("Custom Discord Presence - Nathaniel Fernandes")
+        self.window.title("Custom Discord Presence")
         self.window.configure(bg="#2C2F33")
         self.window.resizable(width=False, height=False)
         self.frames = []
@@ -192,9 +193,9 @@ def update():
         large_image=large_image.value if large_image is not None else None,
         large_text=large_text.value if large_text is not None else None,
         join="test" if join_button else None,
-        # party_size=[69, 69],
         start=time.time(),
         end=time_left.value if time_left is not None else None,
+        # party_size=[1, 4],
     )
 
 
@@ -204,6 +205,7 @@ def close():
 
 
 if __name__ == "__main__":
+    # you can replace this client_id with your own apps client_id and adjust the options accordingly
     client_id = "798338902389817345"
     options = [
         "doge",
