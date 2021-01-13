@@ -3,7 +3,7 @@
  An easy to use tool to customize your discord rich presence.
 
 ## Installation
-### For Mac: [Click HERE](https://www.dropbox.com/s/z5ftjss9e9mqx6u/Custom%20RP.app.zip?dl=0) to download the app.
+### For Mac: ``In Progress``
 ### For Windows: ``In Progress``
 <!--[Click HERE](https://www.dropbox.com/s/z5ftjss9e9mqx6u/Custom%20RP.app.zip?dl=0) to download the exe. -->
 
