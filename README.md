@@ -3,11 +3,11 @@
  An easy to use tool to customize your discord rich presence.
 
 ## Installation
-### For Mac: ``In Progress``
-### For Windows: ``In Progress``
+<!-- ### For Mac: [Click HERE](https://www.dropbox.com/s/z5ftjss9e9mqx6u/Custom%20RP.app.zip?dl=0) to download the app.
+### For Windows: ``In Progress`` -->
 <!--[Click HERE](https://www.dropbox.com/s/z5ftjss9e9mqx6u/Custom%20RP.app.zip?dl=0) to download the exe. -->
 
-Run the according app or exe file.\
+<!-- Run the according app or exe file.\ -->
 NOTE: discord must running in order to use the program
 ### OR
 ### Clone or download the repository with: 
@@ -36,3 +36,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### - Improved Interface
 ### - Allot more images
 ### - Saveable presets
+
+## Images
+{doge,otter,cursed,babyyoda,confetti,sovietdoge,pupper,highestintheroom,splash,water,beans,minecraft}
