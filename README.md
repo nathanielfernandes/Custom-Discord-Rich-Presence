@@ -38,4 +38,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### - Saveable presets
 
 ## Images
-{doge,otter,cursed,babyyoda,confetti,sovietdoge,pupper,highestintheroom,splash,water,beans,minecraft}
+{doge,otter,cursed,babyyoda,confetti,sovietdoge,pupper,highestintheroom,splash,water,beans,minecraft,pigeon}
